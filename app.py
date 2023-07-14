@@ -11,3 +11,8 @@ def bc4m():
 
 if __name__ == '__main__':
     app.run(host="0.0.0.0", port=5000)
+# githuba yüklemek için sırasıyla
+# git add app.py
+# git commit -m "first commit"   
+# git push bestcloudfor.me-case
+# Kodlarını kullandım
