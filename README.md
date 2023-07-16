@@ -1,6 +1,6 @@
 # CASE STUDY
 ## 1.Görev
-Linkte verilen uygulama kodkarını github reposuna yüklemek için sırasıyla
+Linkte verilen uygulama kodlarını github reposuna yüklemek için sırasıyla
 ```
 git clone <depo url>
 git add .
